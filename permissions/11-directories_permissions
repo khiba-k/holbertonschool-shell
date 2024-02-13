@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 611 -R .
-
+chmod -R 611 .
